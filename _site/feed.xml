@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Feeling Responsive</title>
-		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
+		<title>Roya Sabeti</title>
+		<description></description>
 		<link>http://localhost:4000/</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -12,48 +12,37 @@
 				<title>Women in Tech Lunch &amp; Panel Discussion at Tradeshift</title>
 				<link>http://localhost:4000/women%20in%20tech/networking/women-in-tech/</link>
 				<pubDate>Fri, 16 Sep 2016 00:00:00 -0700</pubDate>
-				<description>&lt;p&gt;Last week we had the pleasure of teaming up with Tradeshift for a Women in Tech Lunch &amp;amp; Panel Discussion. The goal was to connect women
-&lt;!--more--&gt;&lt;/p&gt;
+				<description>&lt;h1 id=&quot;women-in-tech&quot;&gt;Women in Tech&lt;/h1&gt;
+
+&lt;p&gt;Last week we had the pleasure of teaming up with Tradeshift for a Women in Tech Lunch &amp;amp; Panel Discussion. The goal was to connect women&lt;/p&gt;
 
 &lt;p&gt;working in tech with a great company, and each other over lunch, networking, and some interesting topics.&lt;/p&gt;
-
-&lt;p&gt;IMG_6761 (1)&lt;/p&gt;
 
 &lt;p&gt;There were a lot of questions about the difficulties in working with mostly men, how to make your voice heard, and why you should GET A MENTOR.&lt;/p&gt;
 
 &lt;p&gt;My top takeaways from the panel of lovely Tradeshift ladies were…&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Get a Mentor&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&quot;1-get-a-mentor&quot;&gt;1. Get a Mentor&lt;/h2&gt;
 
 &lt;p&gt;Sarika Garg – SVP &amp;amp; GM of Network &amp;amp; Apps made a great point, she said don’t feel like your mentor has to be Sheryl Sandberg. Your mentor is someone who can help guide you in your career. They’re likely someone who has already achieved what you are striving to do, so luckily you can learn from them, and the path they took. She recommended reaching out to someone who inspires you and ask to meet for coffee.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Share Your Opinion (even if you’re not sure if it’s right)&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&quot;2-share-your-opinion-even-if-youre-not-sure-if-its-right&quot;&gt;2. Share Your Opinion (even if you’re not sure if it’s right)&lt;/h2&gt;
 
 &lt;p&gt;ALWAYS speak up at the table. Sometimes as women we feel like we want to make sure we have thought our ideas through 100% and feel intimidated to share until we’ve thoroughly done so. It’s ok if your idea isn’t 100% thought out, share it anyways.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;You don’t have to have a tech background to work in tech&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&quot;3-you-dont-have-to-have-a-tech-background-to-work-in-tech&quot;&gt;3. You don’t have to have a tech background to work in tech&lt;/h2&gt;
 
 &lt;p&gt;It was interesting to hear the diversity of backgrounds from each of the women and their stories. We learned you don’t have to have a tech background to work in tech. In fact coming from a different background can prove to be an advantage because you can offer a different perspective and opinion.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Come prepared with data&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&quot;4-come-prepared-with-data&quot;&gt;4. Come prepared with data&lt;/h2&gt;
 
 &lt;p&gt;Tatiana Afanyseva – Director of Marketing &amp;amp; Sales at Tradeshift shared her story of how she started as an intern and after only a few months was leading an entire marketing team. She said she always came prepared to meetings with data. This really forced everyone to pay attention and take her seriously.&lt;/p&gt;
-
-&lt;p&gt;IMG_6637&lt;/p&gt;
 
 &lt;p&gt;A special thank you to the lovely ladies who participated in the panel and Lynn Feldman VP of Global HR &amp;amp; People Operations at Tradeshift&lt;/p&gt;
 
 &lt;p&gt;Panelists: Female leadership of Tradeshift Holdings: Anja Eriksen – Chief of Staff, VP of Strategy &amp;amp; Process, Tatiana Afanyseva – Director of Marketing &amp;amp; Sales, Sarika Garg – SVP &amp;amp; GM of Network &amp;amp; Apps. Moderator:Toni Nielsen – Recruiting Manager&lt;/p&gt;
 
-&lt;p&gt;Thank you to ZeroCater for providing a tasty lunch.&lt;/p&gt;
+&lt;p&gt;Thank you to &lt;em&gt;ZeroCater&lt;/em&gt; for providing a tasty lunch.&lt;/p&gt;
 
 &lt;p&gt;Riveter connects women working in tech with companies looking to diversify. We do this by teaming up with some awesome companies/startups to host fun and educational women in tech events in their space.&lt;/p&gt;
 

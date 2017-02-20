@@ -9,14 +9,14 @@
 - title: "Portfolio"
   url: "/portfolio/"
   side: left
-  dropdown:
-  - title: "A gallery"
-    url: "/portfolio/asdf/"
-  - title: "A different gallery"
-    url: "/portfolio/qwer/"
-  - title: "Portraits"
-    url: "/portfolio/zxcv/"
+  # dropdown:
+  # - title: "A gallery"
+  #   url: "/portfolio/asdf/"
+  # - title: "A different gallery"
+  #   url: "/portfolio/qwer/"
+  # - title: "Portraits"
+  #   url: "/portfolio/zxcv/"
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
